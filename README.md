@@ -37,7 +37,7 @@ O servidor estará rodando em `http://localhost:3000`.
 ## Parte 4: Execusao do Frontend (Interface do Usuário)
 
 
-2. Para rodar o projeto, use:
+2. No terminal, dentro da pasta **FRONT** PARA RODAR O SITE, use:
 ```bash
 npm run dev
 ```
