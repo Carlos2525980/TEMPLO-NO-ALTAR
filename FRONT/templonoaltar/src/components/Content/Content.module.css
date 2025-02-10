@@ -1,0 +1,129 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 1000px;
+  background-color: blue;
+ 
+
+}
+
+.caixa1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  width: auto;
+  height: 180px;
+  background-color: rgb(32, 176, 243);
+}
+.caixa2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  width: auto;
+  height: 150px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+.caixa3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  width: auto;
+  height: 150px;
+  background-color: blue;
+  cursor: pointer;
+
+}
+
+.caixa4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  width: auto;
+  height: 150px;
+  background-color: blue;
+  cursor: pointer;
+
+}
+.caixa2:hover {
+  color: red;
+  background-color: red;
+}
+.caixa3:hover {
+  color: red;
+  background-color: red;
+}
+.caixa4:hover {
+  color: red;
+  background-color: red;
+}
+
+.logo2 {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  margin-top: 60px;
+}
+.logo3 {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 80px;
+}
+.logo4 {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 85px;
+}
+
+.logo5 {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 85px;
+}
+
+.titulo {
+  font-size: 20px;
+  color: white;
+  margin: 10px;
+  margin-top: 80px;
+  font-weight: bold;
+}
+
+.inicio {
+  font-size: 30px;
+  color: white;
+  margin-top: -20px;
+  margin-left: 85px;
+  font-weight: bold;
+}
+.inicio2 {
+  font-size: 25px;
+  color: white;
+  margin-top: -0px;
+  margin: 10px;
+  margin-left: 85px;
+  font-weight: bold;
+}
+
+.inicio3 {
+  font-size: 25px;
+  color: white;
+  margin-top: -0px;
+  margin: 10px;
+  margin-left: 85px;
+  font-weight: bold;
+}
+
+

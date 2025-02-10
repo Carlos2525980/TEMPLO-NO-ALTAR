@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  text-align: center;
+  width: auto;
+  height: 100px;
+  background-color: blue;
+  bottom: 0px;
+  color: black;
+}
+
+.footercoment {
+  font-size: 20px;
+  color: white;
+}
+
+

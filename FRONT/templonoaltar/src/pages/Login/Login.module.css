@@ -1,0 +1,72 @@
+.caixa {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  background-color: red;
+  background: linear-gradient(blue, blueviolet, pink);
+  margin-left: 550px;
+  margin-top: -900px;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+
+.perfil {
+  width: 150px;
+  margin: 50px;
+}
+
+.usuario {
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  margin: 10px;
+  border: none;
+  background-image: url("../../assets/us.png");
+  background-repeat: no-repeat;
+  padding: 10px 10px 10px 40px; /* Espaço à esquerda para a imagem */
+  background-size: 30px; /* Tamanho da imagem */
+  background-position: 5px 10px;
+}
+
+.senha {
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  margin: 10px;
+  border: none;
+  background-image: url("../../assets/cadeado.png");
+  background-repeat: no-repeat;
+  padding: 10px 10px 10px 40px; /* Espaço à esquerda para a imagem */
+  background-size: 30px; /* Tamanho da imagem */
+  background-position: 5px 10px;
+}
+
+.BOTAO {
+  width: 180px;
+  height: 40px;
+  color: white;
+  background-color: blueviolet;
+  border: none;
+  margin: 40px;
+  cursor: pointer;
+}
+
+.BOTAO:hover {
+  background-color: red;
+  box-shadow: 10px 10px 10px blue;
+}
+
+.senha:hover,
+.usuario:hover {
+  border: 3px solid MediumVioletRed;
+}
+
+.message {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  font-size: 20px;
+}
