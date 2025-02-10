@@ -14,10 +14,14 @@ Este guia explica como configurar e executar o projeto que cronometra cultos de 
 1. Crie um banco de dados no MySQL chamado `cadastro`.
 2. Dentro desse banco, crie uma tabela `usuarios` com os seguintes campos:
    - `id` (PRIMARY KEY, AUTO_INCREMENT)
-   - `nome` (VARCHAR)
-   - `email` (VARCHAR)
-   - `fone` (VARCHAR)
-   - `data_nascimento` (DATE)
+   - `Primeiro_Evento` (VARCHAR)
+   - `Primeiro_Duracao` (TIME)
+   - `Segundo_Evento` (VARCHAR)
+   - `Segundo_Duracao` (TIME)
+   - `Terceiro_Evento` (VARCHAR)
+   - `Terceiro_Duracao` (TIME)
+   - `Quarto_Evento` (VARCHAR)
+   - `Quarto_Duracao` (TIME)
 
 
 
