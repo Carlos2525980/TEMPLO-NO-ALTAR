@@ -43,3 +43,18 @@ npm run dev
 ```
 A aplicação estará funcionando, com a possibilidade de **cadastrar**, **listar** e **excluir** usuários!
 
+
+
+
+
+
+![PrtScr capture_441](https://github.com/user-attachments/assets/d3b105d0-5cfb-4adb-9854-348fa703f634)
+
+
+
+
+
+
+
+
+
